@@ -25,9 +25,9 @@ const App = ({ usersList, isLoaded, page }) => {
                 .slice(indexOfFirstItem, indexOfLastItem)
                 .map(user => (
                   <tr key={user.id}>
-                    <td scope="tow">{user.id}</td>
-                    <td scope="row">{user.name}</td>
-                    <td scope="row">{user.surname}</td>
+                    <td>{user.id}</td>
+                    <td>{user.name}</td>
+                    <td>{user.surname}</td>
                     <td>{user.desc}</td>
                   </tr>
                 ))}
