@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tower-iq_react-task/precache-manifest.f61043a8dfcb0607d64b92322d7edb68.js"
+  "/tower-iq_react-task/precache-manifest.411d08616ca0215b797f0872a4626cbc.js"
 );
 
 self.addEventListener('message', (event) => {
