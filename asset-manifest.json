@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tower-iq_react-task/static/css/main.e77dfbb4.chunk.css",
-    "main.js": "/tower-iq_react-task/static/js/main.22734d80.chunk.js",
-    "main.js.map": "/tower-iq_react-task/static/js/main.22734d80.chunk.js.map",
+    "main.js": "/tower-iq_react-task/static/js/main.34341060.chunk.js",
+    "main.js.map": "/tower-iq_react-task/static/js/main.34341060.chunk.js.map",
     "runtime-main.js": "/tower-iq_react-task/static/js/runtime-main.9f93623f.js",
     "runtime-main.js.map": "/tower-iq_react-task/static/js/runtime-main.9f93623f.js.map",
     "static/js/2.c5253b58.chunk.js": "/tower-iq_react-task/static/js/2.c5253b58.chunk.js",
     "static/js/2.c5253b58.chunk.js.map": "/tower-iq_react-task/static/js/2.c5253b58.chunk.js.map",
     "index.html": "/tower-iq_react-task/index.html",
-    "precache-manifest.e993f33c515343ba223084690565348e.js": "/tower-iq_react-task/precache-manifest.e993f33c515343ba223084690565348e.js",
+    "precache-manifest.ba2aac03b71cd2f5a6dbd7b29df74d96.js": "/tower-iq_react-task/precache-manifest.ba2aac03b71cd2f5a6dbd7b29df74d96.js",
     "service-worker.js": "/tower-iq_react-task/service-worker.js",
     "static/css/main.e77dfbb4.chunk.css.map": "/tower-iq_react-task/static/css/main.e77dfbb4.chunk.css.map",
     "static/js/2.c5253b58.chunk.js.LICENSE": "/tower-iq_react-task/static/js/2.c5253b58.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9f93623f.js",
     "static/js/2.c5253b58.chunk.js",
     "static/css/main.e77dfbb4.chunk.css",
-    "static/js/main.22734d80.chunk.js"
+    "static/js/main.34341060.chunk.js"
   ]
 }

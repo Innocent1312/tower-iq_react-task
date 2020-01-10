@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5977fb0be5a708a3f73b3847bacd04d3",
+    "revision": "3f1c2a15604e4493246cef70d08c3739",
     "url": "/tower-iq_react-task/index.html"
   },
   {
-    "revision": "1123e324867590239496",
+    "revision": "30da28dc5be50b36438f",
     "url": "/tower-iq_react-task/static/css/main.e77dfbb4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tower-iq_react-task/static/js/2.c5253b58.chunk.js.LICENSE"
   },
   {
-    "revision": "1123e324867590239496",
-    "url": "/tower-iq_react-task/static/js/main.22734d80.chunk.js"
+    "revision": "30da28dc5be50b36438f",
+    "url": "/tower-iq_react-task/static/js/main.34341060.chunk.js"
   },
   {
     "revision": "e0c4bdffa0e48597b98f",
