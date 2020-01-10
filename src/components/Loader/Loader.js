@@ -4,8 +4,9 @@ import { loadUsers } from '../../redux/store';
 
 const Loader = ({ isLoading, isError, loadUsers }) => (
   <>
-    {isError ? 'Something went wrong' : ''}
-
+  <div className="alert alert-error">
+    {isError ? 'Something went wrong' : null}
+  </div>
     <button
       type="button"
       className="btn btn-success btn-lg align-middle loader-button"
