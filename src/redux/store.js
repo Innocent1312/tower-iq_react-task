@@ -49,6 +49,7 @@ const reducer = (state, action) => {
       return {
         ...state,
         isLoaded: false,
+        isLoading: false,
         isError: true
       };
 
